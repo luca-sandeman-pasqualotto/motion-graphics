@@ -11,6 +11,8 @@
 | Maximum file size | 300 MB |
 | Export software | Adobe Media Encoder |
 
+![techspec](./techspec.png)
+
 ## figma
 
 https://www.figma.com/design/L1thKM5CLQe6UX1qvEdM8I/MAPP-Project-Brainstorm?node-id=0-1&t=OL5SK5uyxCGgtKhS-1
