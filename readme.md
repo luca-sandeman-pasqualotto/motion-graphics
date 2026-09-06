@@ -8,7 +8,7 @@
 | Duration | 60 seconds maximum |
 | Codec | H.264 |
 | Format | `.mp4` |
-| Maximum file size | 300 MB |
+| Maximum file size | < 300 MB |
 | Export software | Adobe Media Encoder |
 
 ![techspec](./techspec.png)
